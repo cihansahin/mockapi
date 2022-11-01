@@ -10,5 +10,10 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "Order": {
+    "CompanyName": { "string": {} },
+    "CompanyType": { "string": {} },
+    "Email": { "string": {} }
   }
 }
